@@ -1,0 +1,8 @@
+.nav-tabs .nav-link.active {
+    color: black !important;
+  }
+  
+  /* Color de letra AMARILLO para los tabs inactivos */
+  .nav-tabs .nav-link {
+    color: #006a9d !important; /* amarillo */
+  }
